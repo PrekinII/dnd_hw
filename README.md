@@ -1,15 +1,1 @@
-# 🚀 Welcome to your new awesome project!
-
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+[![Build status](https://ci.appveyor.com/api/projects/status/goh338q758dkciov/branch/main?svg=true)](https://ci.appveyor.com/project/PrekinII/dnd-hw/branch/main)
